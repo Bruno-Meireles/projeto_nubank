@@ -35,9 +35,21 @@ flutter run
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ## Autor
- Bruno Meireles .
+ Bruno Meireles.
 
-![nubank3](https://github.com/Bruno-Meireles/projeto_nubank/assets/88012503/3eb64101-86d1-4287-931e-20f5ff5afee2)
+ ## Imagens e video do projeto.
+![Captura de tela 2024-03-20 131706](https://github.com/Bruno-Meireles/projeto_nubank/assets/88012503/5bba801e-91b7-42bf-86a6-c2da66fce50b)
+![Captura de tela 2024-03-20 131718](https://github.com/Bruno-Meireles/projeto_nubank/assets/88012503/669f5ff9-d7f3-4b03-8633-e90e4ed32f49)
+
+https://github.com/Bruno-Meireles/projeto_nubank/assets/88012503/5eeae790-886a-4e75-bdb6-b0773b2f0c12
 
 
-![nunank2](https://github.com/Bruno-Meireles/projeto_nubank/assets/88012503/a8e37676-e98a-4be9-aebe-e451f8fec2de)
+
+
+
+## Figma 
+
+https://www.figma.com/file/uKBVEUMtRwdgmt04dlqEw8/Nubank-Dark-Mode-(Community)?type=design&node-id=0-1&mode=design&t=6XH42LGfBhxhuJJy-0
+
+
+
